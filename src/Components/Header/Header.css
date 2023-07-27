@@ -1,0 +1,22 @@
+.header img {
+  width: 400px;
+  display: block;
+  margin: auto;
+}
+.header-container {
+  margin-top: 30px;
+  background-color: black;
+}
+.header-container a {
+  text-decoration: none;
+  line-height: 40px;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 9px;
+  color: white;
+}
+.header-container a:hover {
+  background-color: lightgray;
+  color: orangered;
+}

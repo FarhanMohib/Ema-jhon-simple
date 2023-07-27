@@ -1,5 +1,5 @@
-import React, { useState } from "react";
 import "./Product.css";
+
 const Product = (props) => {
   const { name, img, seller, price, stock } = props.product;
 
